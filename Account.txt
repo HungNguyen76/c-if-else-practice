@@ -1,0 +1,19 @@
+
+Name : hung
+Account no. : 123456789
+
+Rs123 had been deposited to your account 
+Date/Time of transaction :  Fri Oct 27 10:14:00 2023
+
+
+Rs123 had been withdrawn from your account 
+Date/Time of transaction :  Fri Oct 27 10:14:07 2023
+
+
+Rs123 had been transferred from your account to 123
+Date/Time of transaction :  Fri Oct 27 10:14:11 2023
+
+
+Rs1 had been deposited to your account 
+Date/Time of transaction :  Fri Oct 27 10:14:30 2023
+
